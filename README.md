@@ -5,7 +5,7 @@
 
 Ubuntu 20.04
 
-sudo apt update && sudo apt upgrade -y && sudo apt install git -y && git clone https://github.com/andrew890074/Whaticket-Saas-Completo.git && cd Whaticket-Saas-Completo && sudo chmod +x ./whatstalk && ./whatstalk
+sudo apt update && sudo apt upgrade -y && sudo apt install git -y && git clone https://github.com/carloseduardoback/Whaticket.git && cd Whaticket && sudo chmod +x ./whatstalk && ./whatstalk
 
 Suporte
 Se você tiver dúvidas ou precisar de ajuda com a configuração, entre em contato via Whatsapp:
@@ -14,8 +14,4 @@ Se você tiver dúvidas ou precisar de ajuda com a configuração, entre em cont
 
 
 <h1>Demonstração</h1>
-
-![GIF](demonstração/video2.gif)
-
-![GIF](demonstração/video1.gif)
 
